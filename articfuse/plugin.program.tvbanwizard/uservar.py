@@ -18,7 +18,7 @@ ADDONTITLE = '[COLOR azure][B]Tvban[/B][/COLOR] [COLOR tan][B]Wizard[/B][/COLOR]
 BUILDERNAME = 'JoseAndTEBA & AndTVban'
 EXCLUDES = [ADDON_ID, 'repository.tvbanmatnexom']
 # Text File with build info in it.
-BUILDFILE = 'https://raw.githubusercontent.com/andtvban/repositorio.matnexon/master/tvbanwizard/builds.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/andtvban/repositorio.matnexom/master/tvbanwizard/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
@@ -103,7 +103,7 @@ CONTACTFANART = 'http://'
 # Enable Auto Update 'Yes' or 'No'
 AUTOUPDATE = 'Yes'
 # Url to wizard version
-BUILDFILE = 'https://raw.githubusercontent.com/andtvban/repositorio.matnexon/master/tvbanwizard/builds.txt' 
+BUILDFILE = 'https://raw.githubusercontent.com/andtvban/repositorio.matnexom/master/tvbanwizard/builds.txt' 
 #########################################################
 
 #########################################################
