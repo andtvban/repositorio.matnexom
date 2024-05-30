@@ -114,7 +114,7 @@ AUTOINSTALL = 'Yes'
 # Addon ID for the repository
 REPOID = 'repository.tvbanmatnexom'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/andtvban/repositorio.matnexom/master/artifuse/zips/addons.xml'
+REPOADDONXML = 'https://raw.githubusercontent.com/andtvban/repositorio.matnexom/master/articfuse/zips/addons.xml'
 # Url to folder zip is located in
 REPOZIPURL = 'https://raw.githubusercontent.com/andtvban/repositorio.matnexom/master/artifuse/zips/repository.tvbanmatnexom/'
 #########################################################
