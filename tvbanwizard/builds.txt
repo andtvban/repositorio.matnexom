@@ -1,6 +1,6 @@
 name="30MAYO"
 version="1.0"
-url="https://github.com/andtvban/repositorio.matnexom/releases/download/1.0/artfutvband.zip"
+url="https://github.com/andtvban/repositorio.matnexom/releases/download/1.0/artfustvband.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
