@@ -1,0 +1,50 @@
+[
+    {
+        "label": "Movies",
+        "icon": "special://skin/extras/icons/film.png",
+        "path": "DefaultSearch-Movies",
+        "target": "videos",
+        "widget_style": "Poster",
+        "guid": "guid-4f18639e"
+    },
+    {
+        "label": "TV Shows",
+        "icon": "special://skin/extras/icons/tv.png",
+        "path": "DefaultSearch-TvShows",
+        "target": "videos",
+        "widget_style": "Poster",
+        "guid": "guid-6a4e43e4"
+    },
+    {
+        "label": "Albums",
+        "icon": "special://skin/extras/icons/songs.png",
+        "path": "DefaultSearch-Albums",
+        "target": "music",
+        "widget_style": "Square",
+        "guid": "guid-d25c4d90"
+    },
+    {
+        "label": "Artists",
+        "icon": "special://skin/extras/icons/songs.png",
+        "path": "DefaultSearch-Artists",
+        "target": "music",
+        "widget_style": "Square",
+        "guid": "guid-105e66fc"
+    },
+    {
+        "label": "Movies (TMDb)",
+        "icon": "special://skin/extras/icons/film.png",
+        "path": "DefaultSearch-TMDBMovies",
+        "target": "videos",
+        "widget_style": "Poster",
+        "guid": "guid-1fa56f1c"
+    },
+    {
+        "label": "TV Shows (TMDb)",
+        "icon": "special://skin/extras/icons/tv.png",
+        "path": "DefaultSearch-TMDBShows",
+        "target": "videos",
+        "widget_style": "Poster",
+        "guid": "guid-c61c0504"
+    }
+]
